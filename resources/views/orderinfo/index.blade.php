@@ -16,7 +16,7 @@
 <div class="border">
     <article>
         <h2>About us</h2>
-        <p>We are a very special soup shop. We make and sell all kinds of soup. We have soups from France, from Italy, from Senegal, from Korea, from India, from China and some surprises that you would not expect. Come try our soup. </p>
+        <p>We are as $order very special soup shop. We make and sell all kinds of soup. We have soups from France, from Italy, from Senegal, from Korea, from India, from China and some surprises that you would not expect. Come try our soup. </p>
         <p><img src="/image/tofugreenssoup.jpg" alt="tofugreensoup"></p>
         <p><img src="/image/tomcheesesoup.jpg" alt="tomatocheesesoup"></p>
         <p><img src="/image/hotsoursoup.jpg" alt="hotandsoursoup"></p>

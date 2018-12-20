@@ -1,12 +1,20 @@
 <?php
 
 namespace App\Http\Controllers;
+use App\Order;
 
 use Illuminate\Http\Request;
 
 class OrderController extends Controller {
-public function index()
+    /**
+     * @return \Illuminate\Contracts\View\Factory|\Illuminate\View\View
+     */
+    public function index()
 {
-    return view('orderinfo.index');
+    /**$orders = orders::orderBy('name')->get();*/
+
+    return view('orderinfo.index')/**->with([
+        'orders' => $orders
+    ])*/;
 }
 }
