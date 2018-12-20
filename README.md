@@ -1,9 +1,12 @@
 # p4
 Project 4 laravel using databases
 By: Sudhir Bhargava
-+ Production URL: <http://p4.hostquick.me>
++ Production URL: <http://p4.hostquick.me> - also on http://blink.dreamhosters.com/p4/
 
 Outside resources
+
+NOTE: My files work locally but my public domain stopped working on final commit - error " (1/1) UnexpectedValueException
+The stream or file "/var/www/html/p4/storage/logs/laravel.log" could not be opened: failed to open stream: Permission denied"
 
 Your list of outside resources go here: I mostly used class notes 
 
