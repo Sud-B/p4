@@ -1,7 +1,7 @@
 # p4
-Project 4 laravel using databases
+Project 4 laravel using SQL databases
 By: Sudhir Bhargava
-+ Production URL: <http://p4.hostquick.me> - also on http://blink.dreamhosters.com/p4/
++ Production URL: <http://p4.hostquick.me> - also on http://sudhirb.sgedu.site/p4/
 
 Outside resources
 
