@@ -1,5 +1,5 @@
 # p4
-Project 4 laravel using SQL databases
+Project 4 Dynamic Web Applications: laravel using SQL databases
 By: Sudhir Bhargava
 + Production URL: <http://p4.hostquick.me> - also on http://sudhirb.sgedu.site/p4/
 
