@@ -5,9 +5,6 @@ By: Sudhir Bhargava
 
 Outside resources
 
-NOTE: My files work locally but my public domain stopped working on final commit - error " (1/1) UnexpectedValueException
-The stream or file "/var/www/html/p4/storage/logs/laravel.log" could not be opened: failed to open stream: Permission denied"
-
 Your list of outside resources go here: I mostly used class notes 
 
 - I have attempted to extend project 3 by adding the "orders" database to the website
@@ -22,7 +19,6 @@ Your list of outside resources go here: I mostly used class notes
 	
 - Migrations and seeders used 
 - barryvdh/laravel-debugbar installed
-- I have been unable to make the database interact and commented out the associated code in my controller file
 - No divergence from guidelines
 
 
